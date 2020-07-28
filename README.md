@@ -4,7 +4,11 @@ A GitHub App built with [probot](https://github.com/probot/probot) that celebrat
 
 ## What it does
 
-FEATURES PLACEHOLDER
+What the project does
+The features and benefits of the project
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the project
 
 ## Getting started
 
